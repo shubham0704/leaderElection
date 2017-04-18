@@ -213,7 +213,7 @@ print data
 ```
 #### the json data is used by the ns3 simulator as the initial-coordinates of the nodes.
 
- ![jpg](/home/master/Documents/GitHub/leaderElection/flowchart.jpg)
+ ![jpg](flowchart.jpg)
  
 code for simulation is [here](https://github.com/shubham0704/leaderElection/blob/master/work-ver-1.cc)
 
@@ -221,7 +221,7 @@ code for simulation is [here](https://github.com/shubham0704/leaderElection/blob
 
 This is for k=3
 
-![png](/home/master/Documents/GitHub/leaderElection/ouput.png)
+![png](ouput.png)
 
 These nodes are initialized with certain battery value and their performance is measured with different changes to the metric function.
 
