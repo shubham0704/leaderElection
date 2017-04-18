@@ -1,5 +1,5 @@
 
-## Algorithm to be executed after I get the values:
+## Explaination of leader election algorithm :
 
 
 
@@ -211,3 +211,21 @@ print data
 ```python
 
 ```
+#### the json data is used by the ns3 simulator as the initial-coordinates of the nodes.
+
+ ![jpg](/home/master/Documents/GitHub/leaderElection/flowchart.jpg)
+ 
+code for simulation is [here](https://github.com/shubham0704/leaderElection/blob/master/work-ver-1.cc)
+
+###Output -
+
+This is for k=3
+
+![png](/home/master/Documents/GitHub/leaderElection/ouput.png)
+
+These nodes are initialized with certain battery value and their performance is measured with different changes to the metric function.
+
+
+ 
+ 
+ 
